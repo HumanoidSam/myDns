@@ -2385,3 +2385,2148 @@ Processing by WelcomeController#contact as HTML
   Rendered welcome/_navbar.html.erb (0.0ms)
   Rendered welcome/contact.html.erb within layouts/application (0.0ms)
 Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 14:26:13 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:26:13 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:26:13 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:13 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:13 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:13 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:26:13 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:13 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:13 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:13 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:26:17 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 14:26:18 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 14:26:18 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:26:19 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 14:26:21 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 14:26:22 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (33.3ms)
+Completed 200 OK in 33ms (Views: 33.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:26:31 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 14:26:33 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 14:26:36 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 14:26:41 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:26:43 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:26:43 +0200
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:26:43 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:26:43 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:43 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:43 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:43 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:43 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:43 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:43 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:26:44 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 13ms (Views: 13.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 14:26:45 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:26:45 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:26:45 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:45 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:45 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:45 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:26:45 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:45 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:45 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:45 +0200
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 14:26:52 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 14:26:58 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:26:58 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:26:58 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:58 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:58 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:58 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:58 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:58 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:26:58 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:26:58 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:30:09 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 14:30:10 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 14:33:07 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:33:07 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:33:07 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:33:07 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:33:07 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:33:07 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:33:07 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:33:07 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:33:07 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:33:07 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:33:11 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:33:23 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 14:33:24 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:33:25 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 14:33:26 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:33:27 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:38:10 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (3.3ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:38:11 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:38:11 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:38:11 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:38:11 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:38:11 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:38:11 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:38:11 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:38:11 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:38:11 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:38:11 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:38:11 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:38:11 +0200
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:38:11 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:38:11 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:38:11 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:38:11 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:38:11 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:38:11 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:38:11 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:38:12 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:39:38 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:39:38 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:39:38 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:39:38 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:39:38 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:39:38 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:39:38 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:39:38 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:39:38 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:39:38 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:39:38 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:39:38 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:39:38 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:39:38 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:47:00 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 63ms (Views: 60.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:47:00 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:47:00 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:47:00 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:47:00 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:47:01 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:47:01 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:47:01 +0200
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:47:01 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:47:01 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:47:01 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:47:01 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:47:01 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:47:01 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:47:01 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:47:01 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:47:01 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:47:01 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:47:01 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:47:01 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:47:02 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:47:02 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:47:02 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:47:02 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:47:02 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:47:02 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:47:02 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:47:02 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:47:02 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:47:02 +0200
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 14:48:51 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 297ms (Views: 296.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:48:51 +0200
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:48:51 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:48:51 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:48:51 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:48:51 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:48:51 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:48:51 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:48:51 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:48:51 +0200
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 14:48:54 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:48:54 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:48:54 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:48:54 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:48:54 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:48:54 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:48:54 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:48:54 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:48:54 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:48:54 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:49:03 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:49:25 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 43ms (Views: 36.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:49:25 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:49:25 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:49:25 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:49:25 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:49:25 +0200
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:49:25 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:49:25 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:49:25 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:49:25 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:49:25 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:49:25 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:49:25 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:49:25 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:49:25 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:49:25 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:49:25 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:49:25 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:49:25 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:49:25 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:49:26 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 13ms (Views: 13.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:49:26 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:49:26 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:49:26 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:49:26 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:49:26 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:49:26 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:49:26 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:49:26 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:49:26 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:50:09 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (3.3ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:53:35 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:53:35 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:53:35 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:53:35 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:53:35 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:53:35 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:53:35 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:53:35 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:53:35 +0200
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:53:35 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:55:20 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:56:13 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:56:13 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:56:13 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:56:13 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:56:13 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:56:13 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:56:13 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:56:13 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:56:13 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:56:13 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:56:14 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:56:14 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:56:14 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:56:14 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:56:14 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:56:14 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:56:14 +0200
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:56:14 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:56:14 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:56:14 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:57:06 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:57:23 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:23 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:23 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:23 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:23 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:23 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:23 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:23 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:23 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:23 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:57:27 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:27 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:27 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:27 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:27 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:27 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:27 +0200
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:27 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:27 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:27 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:57:43 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 33ms (Views: 33.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:43 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:44 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:44 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:44 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:44 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:44 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:44 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:44 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:44 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:57:44 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:44 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:44 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:44 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:44 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:44 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:44 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:45 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:45 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:45 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:57:48 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:48 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:48 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:48 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:48 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:48 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:48 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:48 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:48 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:48 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:57:48 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:48 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:48 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:48 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:48 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:48 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:48 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:48 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:48 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:48 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 14:57:49 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:49 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:49 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:49 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:49 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:49 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:49 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:49 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 14:57:49 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 14:57:49 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 15:00:07 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 15:00:07 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 15:00:07 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 15:00:07 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 15:00:07 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 15:00:07 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 15:00:07 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 15:00:07 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 15:00:07 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 15:00:07 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 15:01:02 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 15:01:02 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 15:01:02 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 15:01:02 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 15:01:02 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 15:01:02 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 15:01:02 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 15:01:02 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 15:01:02 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 15:01:02 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 15:01:03 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 15:01:03 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 15:01:03 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 15:01:03 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 15:01:03 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 15:01:03 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 15:01:03 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 15:01:03 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 15:01:03 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 15:01:03 +0200
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 15:02:36 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 15:02:36 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 15:02:36 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 15:02:36 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 15:02:36 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 15:02:36 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 15:02:36 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 15:02:36 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 15:02:36 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 15:02:36 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 15:02:37 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 15:03:09 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 15:03:09 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 15:03:09 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 15:03:09 +0200
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 15:03:09 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 15:03:09 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 15:03:09 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 15:03:09 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 15:03:09 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 15:03:09 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 15:03:10 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 15:03:10 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 15:03:10 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 15:03:10 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 15:03:10 +0200
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 15:03:10 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 15:03:10 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 15:03:10 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 15:03:10 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 15:03:10 +0200
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 15:03:20 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 15:03:22 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 15:03:23 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 15:03:25 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 15:04:51 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 15:04:51 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 15:04:51 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 15:04:51 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 15:04:51 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 15:04:51 +0200
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 15:04:51 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 15:04:51 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 15:04:51 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 15:04:51 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 15:05:36 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 15:05:39 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 15:05:41 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 15:05:41 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 15:06:11 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 15:06:13 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 13ms (Views: 13.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 15:06:14 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 15:08:52 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (3.3ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 13ms (Views: 13.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 15:08:54 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 15:08:56 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 15:09:56 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 15:10:08 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 15:10:09 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 15:10:10 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 15:10:11 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 15:10:13 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 15:10:13 +0200
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 15:10:13 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 15:10:13 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 15:10:13 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 15:10:13 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 15:10:13 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 15:10:13 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 15:10:13 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 15:10:13 +0200
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 15:10:15 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (3.3ms)
+  Rendered welcome/contact.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 15:10:19 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 33ms (Views: 33.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 15:10:20 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 18:11:23 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 100ms (Views: 83.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 18:11:24 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 18:11:24 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 18:11:24 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 18:11:24 +0200
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 18:11:24 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 18:11:24 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 18:11:24 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 18:11:24 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 18:11:24 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 18:11:26 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 18:11:27 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 18:11:27 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 13ms (Views: 13.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 18:11:28 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 18:11:29 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 13ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 18:11:30 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (3.3ms)
+  Rendered welcome/contact.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 13ms (Views: 13.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 18:11:31 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 30ms (Views: 30.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 18:11:31 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 18:11:37 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 18:11:38 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 18:14:12 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 18:14:12 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 18:14:12 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 18:14:12 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 18:14:12 +0200
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 18:14:12 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 18:14:12 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 18:14:12 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 18:14:12 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 18:14:12 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 18:14:13 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 18:14:13 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 18:14:13 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 18:14:13 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 18:14:13 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 18:14:13 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 18:14:13 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 18:14:13 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 18:14:13 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 18:14:13 +0200
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 18:14:14 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 18:14:32 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 18:14:32 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 18:14:32 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 18:14:32 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 18:14:32 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 18:14:32 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 18:14:32 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 18:14:32 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 18:14:32 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 18:14:32 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 18:16:03 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 18:16:05 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 18:16:07 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 18:16:09 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 18:16:11 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 18:16:15 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.10.2 at 2013-10-22 18:17:03 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 30ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 18:17:03 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 18:17:03 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 18:17:03 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 18:17:03 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 18:17:03 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 18:17:03 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 18:17:03 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 18:17:03 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 18:17:03 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 18:17:08 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.10.2 at 2013-10-22 18:17:13 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (3.3ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 18:17:13 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 18:17:13 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 18:17:13 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 18:17:13 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 18:17:13 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 18:17:13 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 18:17:13 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 18:17:13 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 18:17:13 +0200
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 18:17:16 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 18:17:17 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 18:17:37 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 18:17:38 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 18:51:12 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 18:51:13 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 18:51:14 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 18:51:14 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 18:51:16 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 18:51:17 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 13ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 18:51:17 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-22 18:51:19 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 18:51:24 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-22 18:51:24 +0200
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-22 18:51:24 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-22 18:51:24 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-22 18:51:24 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-22 18:51:24 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-22 18:51:24 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-22 18:51:24 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-22 18:51:24 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-22 18:51:24 +0200
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-22 18:51:28 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (3.3ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-22 19:25:58 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (3.3ms)
+  Rendered welcome/home.html.erb within layouts/application (30.0ms)
+Completed 200 OK in 33ms (Views: 33.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-23 07:48:11 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-23 07:48:12 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-23 07:48:12 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-23 07:48:12 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-23 07:48:12 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-23 07:48:12 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-23 07:48:12 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-23 07:48:12 +0200
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-23 07:48:12 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-23 07:48:12 +0200
+
+
+Started GET "/" for 192.168.10.2 at 2013-10-23 07:48:16 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-23 07:48:16 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-23 07:48:16 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-23 07:48:16 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-23 07:48:16 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-23 07:48:16 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-23 07:48:16 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-23 07:48:16 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-23 07:48:16 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-23 07:48:16 +0200
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-23 07:48:23 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-23 07:48:23 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-23 07:48:24 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-23 07:48:25 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-23 07:48:25 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-23 08:01:44 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.10.2 at 2013-10-23 08:01:44 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 192.168.10.2 at 2013-10-23 08:01:44 +0200
+
+
+Started GET "/assets/application.js?body=1" for 192.168.10.2 at 2013-10-23 08:01:44 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 192.168.10.2 at 2013-10-23 08:01:44 +0200
+
+
+Started GET "/assets/bootstrap.css?body=1" for 192.168.10.2 at 2013-10-23 08:01:44 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.10.2 at 2013-10-23 08:01:44 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.10.2 at 2013-10-23 08:01:44 +0200
+
+
+Started GET "/assets/application.css?body=1" for 192.168.10.2 at 2013-10-23 08:01:44 +0200
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.10.2 at 2013-10-23 08:01:44 +0200
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-23 08:02:00 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-23 08:02:01 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-23 08:02:02 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (3.3ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 192.168.10.2 at 2013-10-23 08:02:04 +0200
+Processing by WelcomeController#about as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/about.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/contact" for 192.168.10.2 at 2013-10-23 08:02:04 +0200
+Processing by WelcomeController#contact as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/contact.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/home" for 192.168.10.2 at 2013-10-23 08:02:06 +0200
+Processing by WelcomeController#home as HTML
+  Rendered welcome/_navbar.html.erb (0.0ms)
+  Rendered welcome/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
